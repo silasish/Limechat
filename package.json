@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "ws": "^8.5.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "limechat",
+  "version": "1.0.0",
+  "description": "A server for a simple websocket chat.",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "Silas",
+  "license": "ISC"
+}
